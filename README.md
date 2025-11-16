@@ -74,7 +74,7 @@ Este proyecto utiliza Docker para crear un entorno de producción autocontenido 
 - **Tener Docker Desktop instalado y en ejecución.**
 1. **Clonar el repositorio:**
    ```bash
-    git clone https://github.com/FedericoMtzBaez/Web_liai-uaz.git
+    git clone https://github.com/FedericoMtzBaez/ChunFeng-BeiBei-S.C..git
     cd Web_liai-uaz
    ```
 2. **Construye la imagen de Docker:**
