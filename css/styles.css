@@ -1,4 +1,6 @@
 /* Main CSS file that imports all other CSS files */
+/* Paleta de colores principal de ChunFeng BeiBei */
+
 @import 'reset.css';
 @import 'typography.css';
 @import 'layout.css';

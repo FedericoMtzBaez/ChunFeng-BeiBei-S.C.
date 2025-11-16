@@ -1,4 +1,22 @@
 /* Reset and base styles */
+
+:root {
+    /* Paleta Principal (Rojos) */
+    --color-primario-oscuro: #9B1B1B;  /* Un rojo oscuro para fondos (footer) y botones */
+    --color-primario: #B90E0A;         /* Rojo principal (tomado del logo) */
+    --color-primario-claro: #D93B3B;    /* Para hovers y enlaces */
+
+    /* Paleta de Acento (Dorado/Naranja) */
+    --color-acento: #E4A22B;           /* Dorado/Naranja (tomado del logo) */
+    --color-acento-claro: #F0B94A;     /* Para hovers de acento */
+
+    /* Paleta Neutral */
+    --color-texto: #333333;             /* Texto principal */
+    --color-fondo: #FFFFFF;              /* Fondo general */
+    --color-fondo-claro: #FFF8F8;      /* Fondo de secciones (en lugar del azul claro) */
+    --color-bordes: #EAEAEA;            /* Bordes suaves */
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;

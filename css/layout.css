@@ -54,13 +54,13 @@ main {
 .section-separator {
   height: 0.4rem;
   width: 8rem;
-  background-color: #0a1f45;
+  background-color: var(--color-primario-oscuro);
   margin: 1.6rem auto 2.4rem;
 }
 
 /* Footer */
 footer {
-  background-color: #0a1f45;
+  background-color: var(--color-primario-oscuro);
   color: #fff;
   padding: 4.8rem 0 1.6rem;
 }
