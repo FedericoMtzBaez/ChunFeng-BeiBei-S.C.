@@ -44,7 +44,7 @@ main {
 }
 
 .section-alt {
-  background-color: #f0f4f8;
+  background-color: var(--color-fondo-claro);
 }
 
 .section-header {
