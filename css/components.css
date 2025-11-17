@@ -42,16 +42,16 @@ header .logo span {
   display: inline-block;
 }
 
-header#header .container .logo a > .logo-image {
-  width: 220px !important;
-  height: auto !important;
-  max-width: none !important;
-  max-height: none !important;
-  min-width: 180px !important;
-  transition: all 0.3s ease !important;
-  margin: 0 !important;
-  display: inline-block !important;
-}
+/*header#header .container .logo a > .logo-image {*/
+/*  width: 220px !important;*/
+/*  height: auto !important;*/
+/*  max-width: none !important;*/
+/*  max-height: none !important;*/
+/*  min-width: 180px !important;*/
+/*  transition: all 0.3s ease !important;*/
+/*  margin: 0 !important;*/
+/*  display: inline-block !important;*/
+/*}*/
 
 header .logo-separator {
   margin: 0 8px;
